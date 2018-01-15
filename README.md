@@ -5,5 +5,5 @@
 Quite simple :
 - include ImageSequence.js to your HTML (or the minified one...)
 - instantiate a new ImageSequence
-- perform actions such as play, pause, reverse, playFrom, playTo, playFromTo...
+- use methode to control your player (99% of the case just need instance.to( index ) )
 
